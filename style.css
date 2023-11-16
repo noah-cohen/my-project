@@ -1,8 +1,11 @@
 body {
     background-color: aliceblue;
+    color: red;
 }
 
 a{
     text-decoration: none;
     color: pink;
+    font-size: larger;
+    border: 2px double blue;
 }
