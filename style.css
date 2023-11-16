@@ -2,7 +2,9 @@ body {
     background-color: aliceblue;
 }
 
-a{
+a {
     text-decoration: none;
     color: pink;
+    border: 1px solid red;
+    cursor: alias;
 }
